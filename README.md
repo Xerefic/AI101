@@ -1,2 +1,2 @@
-# AI101
+# AI 101
 Analytics Club Sessions 2022
