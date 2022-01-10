@@ -1,5 +1,7 @@
+# Analytics Club, Centre for Innovation
 # AI 101
-Analytics Club Sessions 2022
+
+Official Repository for the sessions conducted in the year 2022 by the Analytics Club.
 
 ## Contents
 
